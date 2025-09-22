@@ -3,7 +3,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Anchor_icon.svg/200px-Anchor_icon.svg.png" alt="SLPA Developers Logo" width="100">
 </p>
 
-<h1 align="center">⚓ SLPA Developers</h1>
+<h1 align="center">⚓ SLPA</h1>
 
 <p align="center">
   <em>Innovating & Scaling Digital Solutions for Sri Lanka Ports Authority</em>  

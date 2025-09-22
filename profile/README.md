@@ -25,24 +25,28 @@
 
 <!-- Key Projects -->
 <h2>🚀 Our Key Projects</h2>
-<div style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;">
 
-  <div style="flex:1;min-width:250px;border:1px solid #333;border-radius:8px;padding:15px;">
-    <h3>💻 ERP</h3>
-    <p>Full-stack Enterprise Resource Planning platform integrating finance, classroom booking, course management, and more.</p>
-  </div>
+<table>
+  <tr>
+    <td width="50" align="center">💻</td>
+    <td>
+      <strong>ERP</strong> – Full-stack Enterprise Resource Planning platform integrating finance, classroom booking, course management, and more.
+    </td>
+  </tr>
+  <tr>
+    <td width="50" align="center">📚</td>
+    <td>
+      <strong>OJT</strong> – On-the-Job Training & Learning Management System for students and staff to collaborate efficiently.
+    </td>
+  </tr>
+  <tr>
+    <td width="50" align="center">🛠️</td>
+    <td>
+      <strong>Supporting Modules</strong> – Event management, bus booking, lecturer and student registration, payments, and beyond.
+    </td>
+  </tr>
+</table>
 
-  <div style="flex:1;min-width:250px;border:1px solid #333;border-radius:8px;padding:15px;">
-    <h3>📚 OJT</h3>
-    <p>On-the-Job Training & Learning Management System for students and staff to collaborate efficiently.</p>
-  </div>
-
-  <div style="flex:1;min-width:250px;border:1px solid #333;border-radius:8px;padding:15px;">
-    <h3>🛠️ Supporting Modules</h3>
-    <p>Event management, bus booking, lecturer and student registration, payments, and beyond.</p>
-  </div>
-
-</div>
 
 
 <!-- Tech Stack -->

@@ -72,5 +72,5 @@
 <!-- Footer -->
 <hr/>
 <p align="center">
-  Made with ❤️ by <strong>SLPA Developers</strong> | ⚓ Empowering Digital Transformation at Sri Lanka Ports Authority
+  Made with ❤️ by <strong>SLPA Developers 🇱🇰 </strong> | ⚓ Empowering Digital Transformation at Sri Lanka Ports Authority
 </p>

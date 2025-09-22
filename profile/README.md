@@ -1,6 +1,6 @@
 <!-- Organization Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MPMA-DEV/.github/224fdf5c25125d9a9622edbc6945fd582baca06b/submission-download.png" alt="SLPA Developers Logo" width="150">
+  <img src="https://raw.githubusercontent.com/MPMA-DEV/.github/224fdf5c25125d9a9622edbc6945fd582baca06b/submission-download.png" alt="SLPA Developers Logo" width="450">
 </p>
 
 

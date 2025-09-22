@@ -20,11 +20,6 @@
   <img src="https://img.shields.io/badge/Active-Projects-orange?style=flat-square&logo=github">
 </p>
 
-<!-- Introduction -->
-<h2>👋 About Us</h2>
-<p>
-SLPA Developers is a forward-thinking developer community under Sri Lanka Ports Authority dedicated to creating innovative, secure, and scalable software solutions. Our main focus is on building enterprise-grade systems that modernize port and maritime operations.  
-</p>
 
 <!-- Key Projects -->
 <h2>🚀 Our Key Projects</h2>

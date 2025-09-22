@@ -6,7 +6,7 @@
     width="600">
 </p>
 
-<p style="text-align:center; margin-top:-55px;">
+<p style="text-align:center; margin-top:-15px; margin-bottom:15px; padding:0;">
   <em>Innovating & Scaling Digital Solutions for Sri Lanka Ports Authority</em>
 </p>
 

@@ -32,11 +32,21 @@
 <!-- Tech Stack -->
 <h2>🛠️ Technology Stack</h2>
 <p>
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white" alt="React Badge">
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js Badge">
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL Badge">
-  <img src="https://img.shields.io/badge/DevOps-Nginx-009639?logo=nginx&logoColor=white" alt="Nginx Badge">
-  <img src="https://img.shields.io/badge/Cloud-Namecheap-0066CC?logo=cloudflare&logoColor=white" alt="Cloud Badge">
+  <!-- Frontend -->
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white" alt="React Badge">
+<img src="https://img.shields.io/badge/Frontend-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript Badge">
+<img src="https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript Badge">
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js Badge">
+
+<!-- Database -->
+<img src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL Badge">
+
+<!-- DevOps -->
+<img src="https://img.shields.io/badge/DevOps-Apache-D22128?logo=apache&logoColor=white" alt="Apache Badge">
+<img src="https://img.shields.io/badge/DevOps-Nginx-009639?logo=nginx&logoColor=white" alt="Nginx Badge">
+
 </p>
 
 <!-- Our Values -->

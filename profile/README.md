@@ -1,10 +1,9 @@
 <!-- Organization Banner -->
-<p align="center" style="margin-top:-30px; margin-bottom:-30px;">
-  <img 
-    src="https://raw.githubusercontent.com/MPMA-DEV/.github/224fdf5c25125d9a9622edbc6945fd582baca06b/submission-download.png" 
-    alt="SLPA Developers Logo" 
-    width="600">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MPMA-DEV/.github/<branch-or-commit>/mpma-logo-trim.png"
+       alt="SLPA Developers Logo" width="600">
 </p>
+
 
 <p align="center">
   <em>Innovating & Scaling Digital Solutions for Sri Lanka Ports Authority</em>  

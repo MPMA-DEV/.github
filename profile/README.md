@@ -49,13 +49,6 @@
 </p>
 
 <!-- Our Values -->
-<h2>🌟 Our Values</h2>
-<ul>
-  <li>⚡ <strong>Innovation</strong> – Building solutions that make port operations more efficient.</li>
-  <li>🔒 <strong>Security</strong> – Following best practices to ensure data safety and reliability.</li>
-  <li>📈 <strong>Scalability</strong> – Architecting systems to grow with demand.</li>
-  <li>🤝 <strong>Collaboration</strong> – Developers and technical teams working hand in hand with stakeholders.</li>
-</ul>
 
 <!-- How to Contribute -->
 <h2>🤝 Contributing</h2>

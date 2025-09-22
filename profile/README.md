@@ -48,13 +48,6 @@
 
 </p>
 
-<!-- Our Values -->
-
-<!-- How to Contribute -->
-<h2>🤝 Contributing</h2>
-<p>
-We welcome contributions from passionate developers. Please fork our repositories, submit pull requests, or open issues. Check each project’s individual README for setup instructions.
-</p>
 
 <!-- Footer -->
 <hr/>

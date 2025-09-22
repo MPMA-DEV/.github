@@ -1,9 +1,8 @@
 <!-- Organization Banner -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Anchor_icon.svg/200px-Anchor_icon.svg.png" alt="SLPA Developers Logo" width="100">
+  <img src="https://raw.githubusercontent.com/MPMA-DEV/.github/224fdf5c25125d9a9622edbc6945fd582baca06b/submission-download.png" alt="SLPA Developers Logo" width="150">
 </p>
 
-<h1 align="center">⚓ SLPA</h1>
 
 <p align="center">
   <em>Innovating & Scaling Digital Solutions for Sri Lanka Ports Authority</em>  

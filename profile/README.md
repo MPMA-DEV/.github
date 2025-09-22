@@ -1,10 +1,9 @@
 <!-- Organization Banner -->
 <div style="text-align:center; margin-top:-30px; margin-bottom:-30px; padding:0;">
-  <img 
-    src="https://raw.githubusercontent.com/MPMA-DEV/.github/224fdf5c25125d9a9622edbc6945fd582baca06b/submission-download.png" 
-    alt="SLPA Developers Logo" 
-    width="450" 
-    style="display:block; margin:0 auto; padding:0; border:0;" />
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/MPMA-DEV/.github/224fdf5c25125d9a9622edbc6945fd582baca06b/submission-download.png" alt="SLPA Developers Logo" width="150">
+</p>
+
 </div>
 
 

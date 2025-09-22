@@ -1,9 +1,9 @@
 <!-- Organization Banner -->
-<p align="center" style="margin-top:-15px; margin-bottom:-15px;">
+<p align="center"">
   <img 
     src="https://raw.githubusercontent.com/MPMA-DEV/.github/5d90f88c085cc432c362d684fbbbcd50fd9b6d07/mpma-logo-trim.png" 
     alt="SLPA Developers Logo" 
-    width="600">
+    width="400">
 </p>
 
 

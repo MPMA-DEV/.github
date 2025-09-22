@@ -33,7 +33,6 @@
 <h2>🛠️ Technology Stack</h2>
 <p>
   <!-- Frontend -->
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white" alt="React Badge">
 <img src="https://img.shields.io/badge/Frontend-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript Badge">
 <img src="https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript Badge">
 
